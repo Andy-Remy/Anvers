@@ -10,3 +10,5 @@ L’objectif est de centraliser toutes les informations liées à la mise en œu
 ## Voici le schéma logique du context CUB
 
 ![](Anvers/../media/Context/context.png)
+
+Dans le Context CUB, Matéo et moi sommes à l'Agence Anvers !!
